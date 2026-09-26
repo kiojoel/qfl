@@ -2,18 +2,6 @@
 
 A personal project for learning quantitative finance and software engineering by building a research platform from scratch.
 
-## Problem
-
-I want to take a financial hypothesis and turn it into tested evidence, using infrastructure I built and understand myself.
-
-## Status
-
-**Phase 0: project definition.** No code yet.
-
-## Current capabilities
-
-None.
-
 ## Planned capabilities
 
 - Market-data ingestion and storage
@@ -22,10 +10,6 @@ None.
 - Backtesting with realistic costs
 - Risk controls
 - Paper trading
-
-## How to run
-
-Not runnable yet.
 
 ## Architecture
 
